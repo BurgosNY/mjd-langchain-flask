@@ -1,0 +1,13 @@
+flask
+pymongo
+langchain
+python-dotenv
+openai
+wolframalpha
+wikipedia
+google-search-results
+requests
+unstructured
+pdf2image
+chromadb
+tiktoken
