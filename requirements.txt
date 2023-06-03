@@ -11,3 +11,4 @@ unstructured
 pdf2image
 chromadb
 tiktoken
+gunicorn
